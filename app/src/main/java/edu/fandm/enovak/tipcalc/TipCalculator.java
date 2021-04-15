@@ -24,8 +24,8 @@ public class TipCalculator extends AppCompatActivity {
     }
 
 
-    public void calculateTip15(View v){
-        calculateTip(0.15);
+    public void calculateTip18(View v){
+        calculateTip(0.18);
     }
 
     public void calculateTip20(View v){
