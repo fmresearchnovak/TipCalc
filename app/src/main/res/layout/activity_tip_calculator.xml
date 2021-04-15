@@ -20,12 +20,12 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button_15"
+        android:id="@+id/button_18"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="15%"
+        android:text="18%"
         android:layout_marginTop="25dp"
-        android:onClick="calculateTipFifteen"
+        android:onClick="calculateTipEighteen"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tip__bill_et" />
